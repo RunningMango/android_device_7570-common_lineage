@@ -1,0 +1,7 @@
+# CP Boot Daemon
+# -sbin/cbd;rootfs
+-sbin/cbd
+
+# AptX
+lib64/libaptX_encoder.so
+lib64/libaptXHD_encoder.so
